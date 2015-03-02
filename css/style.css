@@ -27,7 +27,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #9191A4; //a2a2a2
+		color: #8A8A9C; //a2a2a2
         //color: #000;
 		font-family: sans-serif; //"Source Sans Pro", Helvetica, 
 		font-size: 16pt;
@@ -62,7 +62,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1.5em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -803,7 +803,7 @@
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: .2em;
-		border: solid 3px #efefef;
+		border: solid 3px #bdc3c7; //efefef;
 		color: #787878 !important;
 		cursor: pointer;
 		display: inline-block;
@@ -1052,7 +1052,7 @@
 	#main {
 		margin-left: 27%;
 		max-width: 100em;
-		padding: 8em 4em 4em 4em;
+		padding: 5% 4em 4em 4em;
 		width: calc(100% - 30%);
 	}
 
